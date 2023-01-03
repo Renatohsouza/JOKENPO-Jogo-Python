@@ -42,10 +42,10 @@ if jogador == 'Pedra' or jogador == 'Papel' or jogador == 'Tesoura':
     sleep(1)
     print(linhas)
     print(' ')
-    print(f'- Computador jogou: {computador}') # Nesta parte, procurar possibilidades de inserir emojis nas escolhas de jogador/computador
+    print(f'- Computador jogou: {computador}') # Nesta parte, será inserido emojis nas escolhas de jogador/computador
     print(f'- {nome} jogou: {jogador}')
     print(' ')
-    print('-='*20)
+    print(linhas)
 
     if computador == 'Pedra': 
             if jogador == 'Pedra':
