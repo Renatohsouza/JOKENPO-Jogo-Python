@@ -16,7 +16,7 @@
     <td>Python</td>
   </tr>
   <tr>
-    <td>3.11.1*</td>
+    <td>3.11.1</td>
   </tr>
 </table>
 </table>
