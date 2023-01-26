@@ -1,5 +1,12 @@
 <h1> JOKENPO - Game </h1>
 
+<div align="center">
+
+![03](https://user-images.githubusercontent.com/118791991/214723335-e9dd61c4-b8c7-42ef-96e3-d2fe21db0878.png)
+
+</div>
+
+
 > Status: Developing ⚠️
 
 ## It is an application planned by me, where to develop a JOKENPO game, based on the studies and learning of the Python language.
